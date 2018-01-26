@@ -5,7 +5,6 @@ This TA for Splunk provide fields extractions from Eset Remote Administrator log
 
 
 ## Details
-TA-eset-ra
 Eset Remote Administrator TA for Splunk. Fields extractions and CIM mapping
 
 ## Configurations
