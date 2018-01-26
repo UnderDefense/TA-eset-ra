@@ -1,0 +1,37 @@
+[lookups/action_fix.csv]
+access = read : [ * ], write : [ admin ]
+export = system
+owner = admin
+version = 7.0.0
+modtime = 1516190726.261035000
+
+[transforms/era_action_fix]
+export = system
+owner = admin
+version = 7.0.0
+modtime = 1516191385.323237000
+
+[eventtypes/era_logs]
+owner = admin
+version = 7.0.0
+modtime = 1516192282.811116000
+
+[tags/eventtype%3Dera_logs]
+owner = admin
+version = 7.0.0
+modtime = 1516192354.174925000
+
+[eventtypes/era_logs_blocked]
+owner = admin
+version = 7.0.0
+modtime = 1516197770.817153000
+
+[tags/eventtype%3Dera_logs_blocked]
+owner = admin
+version = 7.0.0
+modtime = 1516197786.086905000
+
+[props/eset%3Ara]
+owner = admin
+version = 7.0.0
+modtime = 1516972005.411252000
