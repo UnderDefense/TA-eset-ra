@@ -8,9 +8,9 @@ This TA for Splunk provide fields extractions from Eset Remote Administrator log
 Eset Remote Administrator TA for Splunk. Fields extractions and CIM mapping
 
 ## Configurations
-Install this TA from splunkbase or manually on your search heads
-Configure port listening in Data Inputs
-Enjoy your data!
+- Install this TA from splunkbase or manually on your search heads
+- Configure port listening in Data Inputs
+- Enjoy your data!
 
 ## Recommendations
 We recommend to separate your data and create index specially for this TA.
