@@ -23,7 +23,7 @@ We recommend to separate your data and create index specially for this TA.
 - Some problems with timestamp
 - Actions "cleaned by deleting", "connection terminated" and "deleted" = action "blocked" for good CIM mapping
 
-## Supporting
+## Support
 Email support during weekday from 08:00 to 16:00 by UTC time
 ## Contact information
 - dzh@underdefense.com
